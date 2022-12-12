@@ -1,5 +1,5 @@
 # Verilog-Game
-Simple verilog game that uses the Intel DE10-Lite board
+Simple verilog game that uses the Intel DE10-Lite board. It uses three push buttons, a VGA cable, and three resistors
 
 # Game State
 ![image](https://raw.githubusercontent.com/asperham/Verilog-Game/main/Images/InGame.jpg)
@@ -13,4 +13,10 @@ If you destroy the astroid 9 times, you win the game and the state will change t
 # Lose Game State
 ![image](https://raw.githubusercontent.com/asperham/Verilog-Game/main/Images/LoseScreen.jpeg)
 If the astroid hits the ship, the player loses and has to reset.
+
+# Pin Arrangement
+![image](https://raw.githubusercontent.com/asperham/Verilog-Game/main/Images/pin%20planner.png)
+
+# Operation Video
+The following is a short video of its operation [Link](https://youtu.be/ktJJqLk9IHY)
 
